@@ -1,5 +1,5 @@
 context:
-  version: "0.4.0"
+  version: "0.5.0"
 
 package:
   name: absurdctl
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/absurdctl/absurdctl-${{ version }}.tar.gz
-  sha256: 060500f84ae0ac27af737e0e70d6e16e3cb12c5aed56a53f7f27841c1a7005a7
+  sha256: 3d26a1b922fe979e4dcbb81403db967877383888ca82aa0e3e28c3017672f93b
 
 build:
   number: 0
